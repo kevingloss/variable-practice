@@ -3,3 +3,6 @@ book_1 = "Name of the Wind"
 
 page = 5
 page_turn = 1.0
+
+good = true
+okay = false
