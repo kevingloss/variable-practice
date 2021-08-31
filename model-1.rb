@@ -6,3 +6,6 @@ page_turn = 1.0
 
 good = true
 okay = false
+
+books_read = [book, book_1]
+pages_read = [72, 300]
